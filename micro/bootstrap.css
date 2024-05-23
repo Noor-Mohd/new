@@ -1,0 +1,235 @@
+*{
+    margin: 0%;
+    padding: 0%;
+   box-sizing: border-box;
+   
+
+   
+}
+
+header{
+    padding: 0px 72px;
+}
+.bg-light{
+    background-color: white !important;
+}
+.nav-link{
+    color: black !important;
+}
+.logo{
+    height: 25px;
+    
+}
+.section1 .intro{
+    text-align: center;
+    padding: 20px;
+    color:white  ;
+    background-color: #0067b8;
+    margin: 0%;
+    font-weight: 600;
+    font-size: 16px;
+}
+.slides{
+   padding: 0px 5px;
+}
+.carousel-item{
+    position: relative;
+}
+.card{
+    position: absolute;
+    top: 10%;
+    left: 72px;
+    width: 500px !important;
+    height: 330px !important;
+    border-radius: none !important;
+    
+}
+.card-body{
+    padding: 50px;
+    border-radius: none !important;
+}
+.new {
+background-color:  #ffb900;
+width: 56px;
+text-align: center;
+}
+.card-body button{
+    width: 130px;
+  height: 44pxpx;
+  padding: 10px 20px 10px 20px;
+  gap: 10px;
+ 
+  opacity: 0px;
+  color: white;
+  background-color: #0067b8;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  border: none;
+}
+.card-body h2{
+    font-weight: 600 !important;
+}
+
+.card2{
+    position: absolute;
+    top: 10%;
+    left: 72px;
+    width: 500px !important;
+    height: 300px !important;
+    border-radius: none !important;
+}
+
+.flex-container1-cards img{
+width: 50px;
+height: 50px;
+
+}
+.flex-container1-cards{
+    padding: 30px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.flex-container1{
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    
+}
+.flex-container1-cards a{
+    font-weight: 600;
+    text-decoration-line: underline;
+}
+
+
+
+.section3{
+    padding: 0 72px;
+}
+
+
+.forone{
+   padding-top: 170px;
+}
+.shop{
+   padding-top: 150px;
+}
+.joinnow{
+    padding-top: 85px;
+}
+.shopnow{
+    padding-top: 115px;
+}
+.learn{
+    padding-top: 60px;
+}
+.signup{
+    padding-top: 80px;
+}
+.learnmore{
+    padding-top: 80px;
+}
+.card-bodyy button{
+    
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+   
+    opacity: 0px;
+    color: white;
+    background-color: #0067b8;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    border: none;
+  }
+  .cardd{
+    box-shadow: 0 .1875rem .4375rem 0 rgba(0, 0, 0, .13), 0 .0625rem .125rem 0 rgba(0, 0, 0, .11);
+    
+  }
+.card-bodyy{
+    padding: 25px 30px !important;
+   
+    
+}
+.card-bodyy p{
+    font-size: 16px !important;
+    
+}
+
+.section4{
+    padding: 50px 72px;
+}
+
+.section44{
+    position: relative;
+}
+.card22{
+    position: absolute;
+    top: 30%;
+    left: 100px;
+    width: 280px !important;
+    height: 430px !important;
+    border-radius: none !important;
+}
+
+.card22 button{
+    
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+   
+    opacity: 0px;
+    color: white;
+    background-color: #0067b8;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    border: none;
+  }
+.section5{
+padding: 0px 72px;
+
+}
+
+.card-bodyyy button{
+    
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+   
+    opacity: 0px;
+    color: white;
+    background-color: #0067b8;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    border: none;
+}
+
+.card-bodyyy{
+    padding:25px 30px !important;
+}
+.carddd{
+    box-shadow: 0 .1875rem .4375rem 0 rgba(0, 0, 0, .13), 0 .0625rem .125rem 0 rgba(0, 0, 0, .11);
+    
+}
+.section6{
+    padding: 90px;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+footer{
+    padding: 50px 72px;
+    background-color: #f2f2f2;} 
+footer li{
+    list-style: none !important;
+    padding: 8px  ;
+}
+footer  a{
+    text-decoration: none !important;
+    color: #616161;
+}
